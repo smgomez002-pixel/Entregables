@@ -8,6 +8,13 @@ margin:0;
 } 
 
 
+.card:hover {
+  transform: translateY(-8px);
+
+  box-shadow: 0 10px 25px rgba(37, 219, 251, 0.5);
+}
+
+
 .card {
     background-color:beige;
     border-radius:12px;
